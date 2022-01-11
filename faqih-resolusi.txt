@@ -1,0 +1,5 @@
+Halo, salam kenal! saya Faqiih dari Bontang.
+
+Resolusi saya:
+- Saya ingin mempelajari git untuk project yang akan mendatang
+- Mempelajari PHP agar bisa menggunakan framework laravel/codeigniter
